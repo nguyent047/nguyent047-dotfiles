@@ -1,8 +1,8 @@
 # ~~~Alias~~~
 
-alias be='cd ./documents/school/jaar2/blok3/be' #Shortcut to Back-End folder
-alias fe='cd ./documents/school/jaar2/blok3/fe' #Shortcut to Front-End folder
-alias tech='cd ./documents/school/jaar2/blok3/tech' #Shortcut to project folder
+alias be='cd ~/documents/school/jaar2/blok3/be' #Shortcut to Back-End folder
+alias fe='cd ~/documents/school/jaar2/blok3/fe' #Shortcut to Front-End folder
+alias tech='cd ~/documents/school/jaar2/blok3/tech' #Shortcut to project folder
 
 
 
